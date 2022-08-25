@@ -1,7 +1,7 @@
 public class a01Practice {
 	public static void main(String args[]){
 		a01Practice main = new a01Practice();
-
+ 
 		System.out.println("reverse first name only");
 		//access 1st methods
 		main.rev1stname();
